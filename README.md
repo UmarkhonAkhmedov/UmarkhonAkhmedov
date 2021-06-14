@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UmarkhonAkhmedov
-- 👀 I’m learning and interested in Python and Django
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on some python and django projects
+- 👀 I have some knowledge about Frontend, Python with Django
+- 🌱 I’m currently learning frontend at the advanced level
+- 💞️ I’m looking to collaborate on some frontend projects
 - 📫 How to reach me umarkhon.akmedov on Instagram
 
 <!---
